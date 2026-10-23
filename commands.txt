@@ -1,0 +1,11 @@
+git --version
+git add
+git status
+git commit -m "adding python application"
+git remote set-url origin https://<token>@github.com/
+git remote add origin 
+git origin -v
+git origin 
+
+git branch
+
